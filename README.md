@@ -2,6 +2,16 @@
 
 Pop-up cards on your stream whenever an item is bought in Deadlock. Show only your own purchases, your team's, or everyone's.
 
+![Purchase cards on a stream](screenshots/overlay.webp)
+
+Pick a style, where the cards sit, how long they stay, and what they show:
+
+![Deadlock, Glass and Minimal card styles](screenshots/styles.webp)
+
+| Control page | First-run setup |
+| --- | --- |
+| ![Control page with settings and live preview](screenshots/control.webp) | ![Setup step for choosing what pops up](screenshots/setup.webp) |
+
 ## Install
 
 1. Download the zip from the [latest release](https://github.com/negativeblueprint/deadlock-buy-overlay-releases/releases/latest).
