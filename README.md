@@ -1,4 +1,4 @@
-# Deadlock Buy Overlay
+# OBSlock - Deadlock OBS Overlays
 
 Pop-up cards on your stream whenever an item is bought in Deadlock. Show only your own purchases, your team's, or everyone's.
 
@@ -16,7 +16,7 @@ Use a full card, one slim line, or just the item icon, with square, rounded, pil
 
 | Control page | First-run setup |
 | --- | --- |
-| ![Control page with settings and live preview](screenshots/control.webp) | ![Setup step for choosing what pops up](screenshots/setup.webp) |
+| ![Control page with settings tabs and live preview](screenshots/control.webp) | ![Setup step for choosing what pops up](screenshots/setup.webp) |
 
 ## Install
 
@@ -42,4 +42,4 @@ This repo only holds the downloads.
 
 ## Not affiliated with Valve
 
-Deadlock Buy Overlay is a fan-made tool. It is not made, endorsed or supported by Valve Corporation, and it has no connection to Valve. Deadlock, its item, hero and souls artwork, and the Deadlock name are trademarks or copyrighted works of Valve Corporation, used here only to show what was bought.
+OBSlock is a fan-made tool. It is not made, endorsed or supported by Valve Corporation, and it has no connection to Valve. Deadlock, its item, hero and souls artwork, and the Deadlock name are trademarks or copyrighted works of Valve Corporation, used here only to show what was bought.
